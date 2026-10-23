@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="white"/>
+<text x="500" y="42" text-anchor="middle" font-family="Microsoft YaHei,sans-serif" font-size="32" font-weight="bold">凸透镜成像</text>
+<line x1="60" y1="310" x2="940" y2="310" stroke="#5a8db8" stroke-width="2"/>
+<ellipse cx="500" cy="310" rx="28" ry="240" fill="#f5b66d" fill-opacity=".55" stroke="#c88442" stroke-width="3"/>
+<line x1="500" y1="65" x2="500" y2="555" stroke="#3f7fb3" stroke-width="2" stroke-dasharray="9 7"/>
+<g stroke="#5a8db8" stroke-width="2" fill="#333" font-family="Arial,sans-serif" font-size="20" text-anchor="middle">
+<path d="M300 298 V322 M400 298 V322 M600 298 V322 M700 298 V322"/>
+<text x="300" y="350">2F</text><text x="400" y="350">F</text><text x="600" y="350">F′</text><text x="700" y="350">2F′</text></g>
+<path d="M190 310 L190 190 L165 190 L210 125 L255 190 L230 190 L230 310 Z" fill="green" stroke="#222" stroke-width="2"/>
+<path d="M750 310 L750 330 L725 330 L770 420 L815 330 L790 330 L790 310 Z" fill="green" stroke="#222" stroke-width="2"/>
+<g stroke="red" stroke-width="3" fill="none"><path d="M210 125 L500 125 L770 420"/><path d="M210 125 L500 310 L770 420"/><path d="M210 125 L400 310 L770 420"/></g>
+</svg>
